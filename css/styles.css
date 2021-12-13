@@ -401,6 +401,9 @@ footer {
     justify-content: space-between;
     width: 60%;
   }
+  .footer-logo{
+    margin:initial
+  }
 }
 @media screen and (min-width: 1160px) {
   /*--------------General--------------*/
@@ -459,4 +462,5 @@ footer {
     justify-content: space-between;
     width: 45%;
   }
+
 }
